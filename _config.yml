@@ -7,9 +7,9 @@ color:
     - '#A0C030'
     - '#D0C088'
   brandStrength: 0
-  lightness: 0.6875
-  rhythmicContrast: 0.25
-  saturation: 0.5
+  lightness: 0.693693
+  rhythmicContrast: 0.225225
+  saturation: 0.972973
 cta: {}
 layout_spectrum: 0.36374
 name: 'Camera Play '
