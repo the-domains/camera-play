@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Camera Play ]]></title>
         <description><![CDATA[Camera Play ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/camera-play/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:31:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 17:45:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camera-play/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Behind The Scenes ]]></title>
+            <description><![CDATA[<article><h1>Behind The Scenes </h1><p>Cleveland Ohio 2015</p></article>]]></description>
+            <link>https://thegrid.ai/camera-play/behind-the-scenes/index.html</link>
+            <guid isPermaLink="false">ec4fe1a0-8e03-4119-8370-98907075ef8b</guid>
+            <pubDate>Sun, 06 Mar 2016 17:45:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Desert Light ]]></title>
             <description><![CDATA[<article><h1>Desert Light </h1><p>Running around the White Tank Mountain range in Arizona </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/631f3040ceb0dc9ab4beffee633260a164cee9e4.jpg"></article>]]></description>
-            <link>undefineddesert-light/index.html</link>
+            <link>https://thegrid.ai/camera-play/desert-light/index.html</link>
             <guid isPermaLink="false">a64addae-b3f1-4b56-b34e-e5042e0222b2</guid>
             <pubDate>Sun, 06 Mar 2016 17:31:04 GMT</pubDate>
         </item>
