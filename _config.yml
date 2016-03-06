@@ -1,0 +1,28 @@
+name: 'Camera Play '
+favicon: null
+layout_spectrum: 0.6704407536890358
+typography_spectrum: 0.08356722467578948
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.026352497283369303
+  lightness: 0.5521074025891721
+  saturation: 0.41197240143083036
+  rhythmicContrast: 0.11913906503468752
+purpose: []
