@@ -1,6 +1,6 @@
 name: 'Camera Play '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.36374
 typography_spectrum: 0.602477
 title: 'An experimental look at my photography '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#807048'
     - '#A0C030'
     - '#D0C088'
-  brandStrength: 0.4375
-  lightness: 0.75
+  brandStrength: 0.1875
+  lightness: 0.6875
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
