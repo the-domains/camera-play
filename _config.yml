@@ -1,29 +1,18 @@
-name: 'Camera Play '
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.26288
-title: 'An experimental look at my photography '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#171400'
-    - '#ff0000'
-    - '#8f751b'
-    - '#ffbeb9'
-  brandStrength: 0
+    - '#E0D8C8'
+    - '#586820'
+    - '#807048'
+    - '#A0C030'
+    - '#D0C088'
+  brandStrength: 0.668918
   lightness: 0.5625
-  saturation: 0.625
   rhythmicContrast: 1
+  saturation: 0.625
+cta: {}
+layout_spectrum: 0.182432
+name: 'Camera Play '
+opengraph: {}
 purpose: []
+typography_spectrum: 0.602477
